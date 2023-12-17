@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>bda5e3c1-d88a-4c1a-8769-910bcbab56f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='isyntax Prostate'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-default.ant-btn-icon-only.indexstyle__ActionButton-z44p8x-3.vZOjh > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>b5f78a6a-16ad-4cdc-adc4-3e18c0d3f7a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>346aa247-ad91-4b26-abb8-cf140c5c4258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>174adb85-efca-4353-87a0-89fb0db53f63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 18 18</value>
+      <webElementGuid>94e62f74-2543-4d54-b34c-0301a1f81f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>adc2fb72-c137-4ca4-a4e8-8b3f02d405b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>e8d4c7f5-4350-4829-8e32-7e9b60143732</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-space ant-space-vertical indexstyle__SpaceWrapper-sc-1gsl3no-0 erfuCE&quot;]/div[@class=&quot;ant-space-item&quot;]/section[@class=&quot;ant-layout indexstyle__LayoutWrapper-sc-1gsl3no-1 huUvf&quot;]/main[@class=&quot;ant-layout-content indexstyle__CasesLayout-lzqo8e-0 iGnokf&quot;]/div[@class=&quot;indexstyle__CasesListContainer-z44p8x-0 dXjBwu&quot;]/div[@class=&quot;ant-row indexstyle__CasesListRowWrapper-z44p8x-1 eeIchC&quot;]/div[@class=&quot;ant-table-wrapper&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-row-hover&quot;]/button[@class=&quot;ant-btn ant-btn-default ant-btn-icon-only indexstyle__ActionButton-z44p8x-3 vZOjh&quot;]/svg[1]</value>
+      <webElementGuid>26de52e7-ccda-44c9-a557-ab52fb208348</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='isyntax Prostate'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>c31f1601-2a6b-4bc6-8718-9df4e9a7b075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P-1637'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>cfdffcaf-375a-4ac0-b14e-473ae48c87b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PL-0019'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>e8653841-3184-4df0-9c25-0a34bc97680f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P-6481'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>8415c0b6-baed-40eb-85b3-571527361ca2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

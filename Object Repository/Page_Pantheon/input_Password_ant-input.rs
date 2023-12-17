@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>04f7d7c4-de5d-4a88-957b-bd8c44f346c8</webElementGuid>
+      <webElementGuid>a592765a-191c-46fc-91cc-9ee3d494c791</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Enter Password</value>
-      <webElementGuid>3d2d3f62-d0cc-4f10-9e93-586d982efdfc</webElementGuid>
+      <webElementGuid>8deb50be-0bf7-4567-8e91-8a128ec23fb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>90fb3146-f512-447f-8977-97549636f076</webElementGuid>
+      <webElementGuid>b313218c-5d95-4a56-a9a1-a81a91156ef5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-input</value>
-      <webElementGuid>c35d85b9-277e-41e0-a0c6-44a74e825a09</webElementGuid>
+      <webElementGuid>8adf41f2-e723-450d-8132-f67ee67647b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;signUpEmail&quot;)/div[@class=&quot;ant-form-item indexstyle__PasswordFormWrapper-sc-3gh0vu-7 dIHcDc&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;style__PasswordInputContainer-jdeaeh-0 bmViPQ&quot;]/span[@class=&quot;ant-input-affix-wrapper ant-input-password style__PasswordInputWrapper-jdeaeh-2 ghKjyO&quot;]/input[@class=&quot;ant-input&quot;]</value>
-      <webElementGuid>ba7fff25-e976-4b60-a451-3cdc82d2a30f</webElementGuid>
+      <webElementGuid>acd5b175-0ab3-47f3-8e4e-971bc2dbd848</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='password']</value>
-      <webElementGuid>6a5fa699-846b-4133-8949-176a9ed26238</webElementGuid>
+      <webElementGuid>1dbc1cba-59d9-4997-8819-b374c9259165</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='signUpEmail']/div[2]/div/div/div/div/div/span/input</value>
-      <webElementGuid>0aa7dc3e-e434-40ab-b6fc-aac27f16998a</webElementGuid>
+      <webElementGuid>bba7482f-f11a-4c2c-98c8-0d74a1d6da66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>92eeb5e2-b0a8-4546-8771-f180c01cc790</webElementGuid>
+      <webElementGuid>c9f0581b-53ad-484e-b0b9-42e3880fbac2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Enter Password' and @type = 'password']</value>
-      <webElementGuid>5d62bbff-8502-481d-ada3-e9cbc910a6e4</webElementGuid>
+      <webElementGuid>7d2a33cc-b40f-4665-ae7a-a7e6a6e5116d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

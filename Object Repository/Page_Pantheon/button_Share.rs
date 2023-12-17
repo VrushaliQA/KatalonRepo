@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Share</name>
+   <tag></tag>
+   <elementGuidId>889d6eb9-f936-4287-8c41-a0005fc65c7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[36]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-col.ant-col-3.indexstyle__SendInviteWrapper-oj3o8u-2.iTwnBq > button.ant-btn.ant-btn-default.button__DefaultButton-yvt5em-0.button__SecondaryButton-yvt5em-2.dwrfPO.jxDBgY</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>55e12817-05fe-43eb-b287-5f01a5d2a16f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0e257545-980f-4853-a72d-2753fcd747bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default button__DefaultButton-yvt5em-0 button__SecondaryButton-yvt5em-2 dwrfPO jxDBgY</value>
+      <webElementGuid>49b1885c-a210-4583-92d8-11c4d489d9bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Share</value>
+      <webElementGuid>e3001dd6-862e-4ca9-9849-df830f17fbaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[4]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap ant-modal-centered&quot;]/div[@class=&quot;ant-modal modal__PrimaryModal-sc-1kexpe2-0 efvkWW&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;ant-row indexstyle__SearchInputWrapper-oj3o8u-1 gNkUvd&quot;]/div[@class=&quot;ant-col ant-col-3 indexstyle__SendInviteWrapper-oj3o8u-2 iTwnBq&quot;]/button[@class=&quot;ant-btn ant-btn-default button__DefaultButton-yvt5em-0 button__SecondaryButton-yvt5em-2 dwrfPO jxDBgY&quot;]</value>
+      <webElementGuid>4a6986e2-9c6f-4aa0-ae8c-4b441e58fda2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[36]</value>
+      <webElementGuid>d77c95da-d186-4674-8310-f08ef54a7d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testingpurpose2412@rediffmail.com'])[1]/following::button[1]</value>
+      <webElementGuid>bd084fbe-dd68-46f9-b933-8d5a2e21939a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing QA'])[1]/following::button[1]</value>
+      <webElementGuid>55f3ab26-1958-476f-b837-41c86877d117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='People with access'])[1]/preceding::button[1]</value>
+      <webElementGuid>35b91bab-6f5c-48ab-b720-6f7d53a022c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>1df34475-d338-4198-9560-1960cb053f48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Share' or . = 'Share')]</value>
+      <webElementGuid>2b8c70aa-ce22-47aa-a76a-571ee8915139</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

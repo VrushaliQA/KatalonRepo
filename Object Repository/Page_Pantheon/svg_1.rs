@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_1</name>
+   <tag></tag>
+   <elementGuidId>e5c393d3-7a9f-41ae-9393-76b779a0970f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Retest PL868'])[1]/following::*[name()='svg'][5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.anticon.anticon-close.ant-modal-close-icon > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>54e5fcfc-d878-46ff-8a70-aba82be75460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>64 64 896 896</value>
+      <webElementGuid>b123ed3f-6e17-43b8-a3de-9ae0c380c2c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>077b7fed-79cc-4a06-b6d9-6ceb496ddd5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>7a084aea-0053-46db-b1e9-d46acdfbc3b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>e8e373b7-c4a6-49f9-bdbd-755d3bbcd2a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>f7d605e9-836f-4615-b1e1-1cf5dd50ba67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>943f3294-06ee-455d-8f96-8528e83bf4d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8428ca07-9363-446f-b107-f3b39366f847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[4]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap ant-modal-centered&quot;]/div[@class=&quot;ant-modal modal__PrimaryModal-sc-1kexpe2-0 efvkWW&quot;]/div[@class=&quot;ant-modal-content&quot;]/button[@class=&quot;ant-modal-close&quot;]/span[@class=&quot;ant-modal-close-x&quot;]/span[@class=&quot;anticon anticon-close ant-modal-close-icon&quot;]/svg[1]</value>
+      <webElementGuid>74221fac-dc15-42ca-a925-05f8b3bbef24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retest PL868'])[1]/following::*[name()='svg'][5]</value>
+      <webElementGuid>a047cb5c-8ed6-42b9-862c-3f23a487ff7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P-5351'])[1]/following::*[name()='svg'][5]</value>
+      <webElementGuid>270956b9-20b6-4e7b-ad47-558a105be01d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Share Access - ', '&quot;', 'Case No. PL-0005', '&quot;', '')])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f4851dd6-7507-4ee8-9199-a8b9fdf1807c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='People'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>c125b2a0-0176-438b-89a4-ed0f294e8d11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
