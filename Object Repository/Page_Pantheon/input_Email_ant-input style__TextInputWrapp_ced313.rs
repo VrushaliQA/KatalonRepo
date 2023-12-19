@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>32349973-725c-48a0-9b76-fedde90dfafd</webElementGuid>
+      <webElementGuid>5fe2d2b2-763d-448c-b4d9-67ff412b889b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>92560c32-5c75-4ed4-a3e2-d4d53358ac19</webElementGuid>
+      <webElementGuid>9badb02c-2a76-4ce2-9ac3-864dbfc1a252</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Enter email</value>
-      <webElementGuid>e588bcf7-f8cb-4ae9-b9fc-f134c94a42d2</webElementGuid>
+      <webElementGuid>b8adcc81-d0fe-48ed-9a2b-0995ce4ae766</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-input style__TextInputWrapper-sc-1ro6c9w-2 KfhqZ</value>
-      <webElementGuid>f2f1ed92-7293-4d85-96a4-ce5b91c53747</webElementGuid>
+      <webElementGuid>d1c20a7a-090b-48ad-ab71-1e84d213e815</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;signUpEmail&quot;)/div[@class=&quot;ant-form-item&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;style__TextInputContainer-sc-1ro6c9w-0 hMwstv&quot;]/input[@class=&quot;ant-input style__TextInputWrapper-sc-1ro6c9w-2 KfhqZ&quot;]</value>
-      <webElementGuid>95f7e396-84fc-473a-846d-81573208039f</webElementGuid>
+      <webElementGuid>c52b2ad7-4337-402c-b56b-c5c5a4280cb9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='']</value>
-      <webElementGuid>e61753fc-7dd1-4d52-a8f1-0263e3bd76a7</webElementGuid>
+      <webElementGuid>be69f8db-ab6c-4010-b712-3dac009801db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='signUpEmail']/div/div/div/div/div/div/input</value>
-      <webElementGuid>9eba5194-0678-44d1-a358-126ce27dc2c0</webElementGuid>
+      <webElementGuid>d50c8523-6b1c-444d-aa42-2952ea2ed10d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>23325d4d-c33d-4345-8d09-75acad6f9d94</webElementGuid>
+      <webElementGuid>36383084-9230-4df9-acbb-8c7cbffbbb04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,38 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Enter email']</value>
-      <webElementGuid>0fa636a1-9483-43bf-9200-ab6930a8c7f2</webElementGuid>
+      <webElementGuid>bd48ba5d-24cd-49df-9752-8e8ade73ec28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[4]</value>
+      <webElementGuid>4547b446-33c7-4978-b4c0-da2eef567387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-tabs-1-panel-PATHOLOGY_SLIDES']/div/div[2]/div/div/div/div/div/table/tbody/tr/td/label/span/input</value>
+      <webElementGuid>9a1f1ba7-f37a-4ea1-8585-865d6a031c95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/label/span/input</value>
+      <webElementGuid>18a2ac3b-e60e-4c84-9d2c-0868bc9cdac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>86ff1ab1-b8e7-4170-bc58-4b5fffc6872d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

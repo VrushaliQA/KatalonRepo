@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_View detailed result_indexstyle__Styled_b3a9bd</name>
+   <tag></tag>
+   <elementGuidId>b459cc6e-883b-48e9-8686-f5e8e7aa0144</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc-tabs-1-panel-PATHOLOGY_SLIDES']/div/div[2]/div/div/div/div/div/table/tbody/tr[8]/td[2]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.ant-table-cell.ant-table-cell-row-hover > div.indexstyle__SlideImageWrapper-khit8p-9.jgRFtA > img.indexstyle__StyledSlideImage-khit8p-6.fPBlgl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>00d33e1a-38c2-4849-bf2f-d4bf6ba3e80b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://pl-qa-pantheon-mock.eks.qritive.com/api/v1/tile/thumbnail?resourceId=64c0d66a23ae1167a52634f1&amp;filePath=PL-0005/PL-0005-08/PL-0005-08&amp;width=160&amp;height=100</value>
+      <webElementGuid>ee519cf8-1358-47d0-8f69-1e46e74736c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Not Available</value>
+      <webElementGuid>92c0a01b-2aae-47de-8b29-21eaddd01d2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>slide-file-thumbnail</value>
+      <webElementGuid>78855e62-f3e3-4b77-9636-64eb5fa8a37c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>6392fb95-8a38-421c-a048-21fb9abf882b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>100</value>
+      <webElementGuid>3fc94360-c9bb-4035-a1bc-9d31808bf387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>indexstyle__StyledSlideImage-khit8p-6 fPBlgl</value>
+      <webElementGuid>eaeca792-84a5-43d1-a424-c02164ebd127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-tabs-1-panel-PATHOLOGY_SLIDES&quot;)/div[@class=&quot;indexstyle__Container-khit8p-0 cabjrC&quot;]/div[@class=&quot;ant-table-wrapper&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0 slide-table-row-disabled&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-row-hover&quot;]/div[@class=&quot;indexstyle__SlideImageWrapper-khit8p-9 jgRFtA&quot;]/img[@class=&quot;indexstyle__StyledSlideImage-khit8p-6 fPBlgl&quot;]</value>
+      <webElementGuid>9c2db76a-9442-49cc-a285-6f610888ef48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-tabs-1-panel-PATHOLOGY_SLIDES']/div/div[2]/div/div/div/div/div/table/tbody/tr[8]/td[2]/div/img</value>
+      <webElementGuid>c9bf47be-327c-4479-9a03-a6f6581c849a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Not Available'])[8]</value>
+      <webElementGuid>a9b41e43-f4a0-4dfb-b561-cb35238986e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td[2]/div/img</value>
+      <webElementGuid>ee41a8df-8f48-4950-83e7-12804332c58f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://pl-qa-pantheon-mock.eks.qritive.com/api/v1/tile/thumbnail?resourceId=64c0d66a23ae1167a52634f1&amp;filePath=PL-0005/PL-0005-08/PL-0005-08&amp;width=160&amp;height=100' and @alt = 'Not Available']</value>
+      <webElementGuid>24a91f54-438e-488f-9cf3-ddc54b8a299d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

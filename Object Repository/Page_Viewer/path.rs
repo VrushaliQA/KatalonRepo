@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>cad261d9-2c1a-4087-a0cf-9cc9fff4e634</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[2]/aside/div/ul/li[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-submenu.ant-menu-submenu-vertical.ant-menu-submenu-open.ant-menu-submenu-active > div.ant-menu-submenu-title > svg > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>6a880d07-ba54-41a1-98b2-ff242695dd86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M7.517 15.1889H4.375C4.22582 15.1889 4.08274 15.1296 3.97725 15.0241C3.87176 14.9186 3.8125 14.7756 3.8125 14.6264V11.4844C3.8125 11.4105 3.82705 11.3374 3.85532 11.2691C3.88359 11.2009 3.92502 11.1389 3.97725 11.0866L12.4148 2.64913C12.5202 2.54364 12.6633 2.48437 12.8125 2.48438C12.9617 2.48438 13.1048 2.54364 13.2102 2.64913L16.3523 5.79113C16.4577 5.89662 16.517 6.0397 16.517 6.18888C16.517 6.33806 16.4577 6.48114 16.3523 6.58663L7.91475 15.0241C7.86252 15.0764 7.80051 15.1178 7.73227 15.1461C7.66402 15.1743 7.59087 15.1889 7.517 15.1889Z</value>
+      <webElementGuid>ea9ede51-ad2f-4fcb-a579-d49938b395cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>#F9F9F9</value>
+      <webElementGuid>6fde9c5d-566a-4a97-bd3a-01aae66f920e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>79b6df1f-4ba1-400e-a001-8fa775388c0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>516fe968-6a23-4a7c-b473-5ae009eb4380</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;appstyled__AppContainer-b26zv3-0 jcFHUG&quot;]/div[@class=&quot;appstyled__Wrapper-b26zv3-1 dsmxma&quot;]/aside[@class=&quot;ant-layout-sider ant-layout-sider-dark leftSideBarlayout__Wrapper-sc-1s7o4nf-0 cAjpfU&quot;]/div[@class=&quot;ant-layout-sider-children&quot;]/ul[@class=&quot;ant-menu ant-menu-root ant-menu-vertical ant-menu-light leftSideBarlayout__StyledMainMenu-sc-1s7o4nf-1 ideutE&quot;]/li[@class=&quot;ant-menu-submenu ant-menu-submenu-vertical ant-menu-submenu-open ant-menu-submenu-active&quot;]/div[@class=&quot;ant-menu-submenu-title&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>50c88e97-8abb-4f9c-90fd-d6154113c45b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

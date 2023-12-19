@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>0ac3e1f4-a2d6-4756-9781-ad130a8d947c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='i'])[1]/following::*[name()='svg'][3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-submenu.ant-menu-submenu-vertical.ant-menu-submenu-open.ant-menu-submenu-active.ant-menu-submenu-selected > div.ant-menu-submenu-title > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>8ec7dc9f-b88b-41ac-97a8-00c49600601b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>19</value>
+      <webElementGuid>92febd10-4ef9-47b2-b060-395a69433af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>6660d45b-d596-47e0-8a5d-6a130867874a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 19 18</value>
+      <webElementGuid>8a059e77-1d94-43b1-b49f-1a5887f39d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>d6682453-f2d1-4054-9785-31b6e64c1def</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>d5f85d51-3852-4413-a63b-6b27396967b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;appstyled__AppContainer-b26zv3-0 jcFHUG&quot;]/div[@class=&quot;appstyled__Wrapper-b26zv3-1 dsmxma&quot;]/aside[@class=&quot;ant-layout-sider ant-layout-sider-dark leftSideBarlayout__Wrapper-sc-1s7o4nf-0 cAjpfU&quot;]/div[@class=&quot;ant-layout-sider-children&quot;]/ul[@class=&quot;ant-menu ant-menu-root ant-menu-vertical ant-menu-light leftSideBarlayout__StyledMainMenu-sc-1s7o4nf-1 ideutE&quot;]/li[@class=&quot;ant-menu-submenu ant-menu-submenu-vertical ant-menu-submenu-open ant-menu-submenu-active ant-menu-submenu-selected&quot;]/div[@class=&quot;ant-menu-submenu-title&quot;]/svg[1]</value>
+      <webElementGuid>a301500f-b855-449b-9ef7-f95ac5989b5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='i'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>5dc90fae-b1af-4652-bd6c-04aea5a6d75b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='⇧'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>1895a398-4a81-4f54-874a-1557b443b23d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>385707cb-8c3d-45e8-87db-a8d9d5d1034e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes must not exceed 1000 characters.'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>9a680d1d-a25d-4cc6-aaec-1cb9265a3e27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

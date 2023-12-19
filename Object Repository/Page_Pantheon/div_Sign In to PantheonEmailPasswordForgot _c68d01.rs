@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sign In to PantheonEmailPasswordForgot _c68d01</name>
+   <tag></tag>
+   <elementGuidId>50f5daff-e993-452d-aeac-4354828363ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/section/main/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.indexstyle__EmailCard-sc-3gh0vu-1.DPpgv</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ad5a6945-4c0f-41bf-bb73-a62b7e02f547</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>indexstyle__EmailCard-sc-3gh0vu-1 DPpgv</value>
+      <webElementGuid>c56d6639-4454-45d3-ab6e-e8649789d24c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In to PantheonEmailPasswordForgot Password?Sign InBy creating an account you are agreeing to our Terms of Service and Privacy Policy.</value>
+      <webElementGuid>a9f9bc08-0cd6-40d2-9ae7-bdab4167ba3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-space ant-space-vertical indexstyle__SignInSpace-uggq0l-0 iXVgMF&quot;]/div[@class=&quot;ant-space-item&quot;]/section[@class=&quot;ant-layout indexstyle__SignInLayout-uggq0l-1 czeYhR&quot;]/main[@class=&quot;ant-layout-content indexstyle__SignInContainer-sc-1o2fdlh-0 bthfmU&quot;]/div[@class=&quot;ant-row ant-row-middle indexstyle__SignInWrapper-sc-1o2fdlh-1 nZpXX&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-sm-24 ant-col-lg-14 ant-col-xl-14&quot;]/div[@class=&quot;indexstyle__EmailContainer-sc-3gh0vu-0 gERgHN&quot;]/div[@class=&quot;indexstyle__EmailCard-sc-3gh0vu-1 DPpgv&quot;]</value>
+      <webElementGuid>d19f2e2f-f501-4bce-bdc6-62f58f85e3cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/section/main/div/div[2]/div/div</value>
+      <webElementGuid>38519c0b-a574-4af1-a403-cdd9fa5d5117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Driving the next-generation diagnostics through AI'])[1]/following::div[5]</value>
+      <webElementGuid>52c40ffe-8a40-464b-869c-f7427922ea03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[1]/following::div[9]</value>
+      <webElementGuid>b72f8e4b-7222-4d7e-86cb-f0d44e196499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>f92360fc-f03e-4ebf-8466-5a0e7de85d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sign In to PantheonEmailPasswordForgot Password?Sign InBy creating an account you are agreeing to our Terms of Service and Privacy Policy.' or . = 'Sign In to PantheonEmailPasswordForgot Password?Sign InBy creating an account you are agreeing to our Terms of Service and Privacy Policy.')]</value>
+      <webElementGuid>20ce58a2-88f7-44a4-bee3-1eb0c58ef6b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

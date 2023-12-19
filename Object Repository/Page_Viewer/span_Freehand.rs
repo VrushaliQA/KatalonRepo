@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Freehand</name>
+   <tag></tag>
+   <elementGuidId>34730b15-f3cc-43cc-8402-dbb879c6d873</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='rc-menu-uuid-94331-2-sub3-popup']/li/ul/li/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-item.ant-menu-item-active > span.ant-menu-title-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>932d8209-8161-4913-9f45-ca689c54f05e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-menu-title-content</value>
+      <webElementGuid>9e446190-568b-4dd1-a0e9-d614b512574b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Freehand</value>
+      <webElementGuid>191e7e4f-b1b7-4ba6-8af5-7c370fee9aa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-menu-uuid-94331-2-sub3-popup&quot;)/li[@class=&quot;ant-menu-item-group&quot;]/ul[@class=&quot;ant-menu-item-group-list&quot;]/li[@class=&quot;ant-menu-item ant-menu-item-active&quot;]/span[@class=&quot;ant-menu-title-content&quot;]</value>
+      <webElementGuid>3f5dc984-56ee-4f12-8951-bff005538097</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='rc-menu-uuid-94331-2-sub3-popup']/li/ul/li/span</value>
+      <webElementGuid>48ae6e41-8772-4494-9531-071911a6dd31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draw'])[1]/following::span[1]</value>
+      <webElementGuid>11578f59-9fb2-4bc7-8342-fe53974b3f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Field Area'])[1]/following::span[1]</value>
+      <webElementGuid>92640a79-3e8a-4180-9aca-fa15c580599b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Polygon'])[1]/preceding::span[1]</value>
+      <webElementGuid>153a3892-0e2a-4b87-ad23-e69a5d988e37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rectangle'])[1]/preceding::span[2]</value>
+      <webElementGuid>cf8a484d-675c-42ec-b86b-ecf97588c477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Freehand']/parent::*</value>
+      <webElementGuid>321184c5-c2af-48a5-ae11-907f3f0aa7a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/ul/li/ul/li/span</value>
+      <webElementGuid>1c585297-acd3-4469-a85c-48a9a638e79e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Freehand' or . = 'Freehand')]</value>
+      <webElementGuid>d5a98969-8b55-44da-9a51-750a72d9f2fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

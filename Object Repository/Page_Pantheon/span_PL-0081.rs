@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PL-0081</name>
+   <tag></tag>
+   <elementGuidId>81ca26eb-b465-41cb-81da-ba2e696588a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/section/main/div[2]/div/div/div/div/div/div/div/table/tbody/tr[10]/td/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.ant-table-cell.ant-table-cell-row-hover > button.ant-btn.ant-btn-link.indexstyle__CaseLinkButton-z44p8x-2.bzNnEX > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f655ca12-33b3-4221-8960-d9dca60a67bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PL-0081</value>
+      <webElementGuid>ad9a00e4-17e7-46da-b6ee-3445a09ba51e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-space ant-space-vertical indexstyle__SpaceWrapper-sc-1gsl3no-0 erfuCE&quot;]/div[@class=&quot;ant-space-item&quot;]/section[@class=&quot;ant-layout indexstyle__LayoutWrapper-sc-1gsl3no-1 huUvf&quot;]/main[@class=&quot;ant-layout-content indexstyle__CasesLayout-lzqo8e-0 iGnokf&quot;]/div[@class=&quot;indexstyle__CasesListContainer-z44p8x-0 dXjBwu&quot;]/div[@class=&quot;ant-row indexstyle__CasesListRowWrapper-z44p8x-1 eeIchC&quot;]/div[@class=&quot;ant-table-wrapper&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-row-hover&quot;]/button[@class=&quot;ant-btn ant-btn-link indexstyle__CaseLinkButton-z44p8x-2 bzNnEX&quot;]/span[1]</value>
+      <webElementGuid>96ddc270-b9f6-4ac5-98c7-d488924765e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/section/main/div[2]/div/div/div/div/div/div/div/table/tbody/tr[10]/td/button/span</value>
+      <webElementGuid>2bc390fd-d505-4176-a9af-c259214a5abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cascade User2Owns'])[1]/following::span[1]</value>
+      <webElementGuid>04e1ce30-d7b7-4451-a1e0-a9dffa406ba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P-4613'])[1]/following::span[1]</value>
+      <webElementGuid>af7baa6b-e7c4-4964-8a1d-279d0e0efc6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P-5351'])[1]/preceding::span[1]</value>
+      <webElementGuid>bd61c4a8-e4da-4569-9bbf-3b72de731ce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retest PL868'])[1]/preceding::span[1]</value>
+      <webElementGuid>7f337177-f102-407e-ab35-0fc048f2ee59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PL-0081']/parent::*</value>
+      <webElementGuid>e30c7db0-f0de-4e38-847e-24d4462ee814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td/button/span</value>
+      <webElementGuid>7444616a-2f18-4a9e-ac26-4de422a2e0aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'PL-0081' or . = 'PL-0081')]</value>
+      <webElementGuid>9362c5c7-a8e8-4dd0-86d1-4637b952cad0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

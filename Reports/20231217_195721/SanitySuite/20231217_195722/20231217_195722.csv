@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SanitySuite,Chrome 120.0.0.0,,,2023-12-17 19:57:42,2023-12-17 19:58:19,37.016s,PASSED
+,,,,,,,
+Test Cases/LoginTest,Chrome 120.0.0.0,,,2023-12-17 19:57:43,2023-12-17 19:57:57,13.716s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-17 19:57:43,2023-12-17 19:57:46,2.951s,PASSED
+"navigateToUrl(""https://pl-qa-pantheon-mock.eks.qritive.com/signin"")",Chrome 120.0.0.0,,,2023-12-17 19:57:46,2023-12-17 19:57:51,4.554s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313""), ""testingpurposesel@gmail.com"")",Chrome 120.0.0.0,,,2023-12-17 19:57:51,2023-12-17 19:57:52,1.610s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Pantheon/input_Password_ant-input""), ""03ZG93lrBnMy0VKFZPeiCg=="")",Chrome 120.0.0.0,,,2023-12-17 19:57:52,2023-12-17 19:57:53,0.680s,PASSED
+"click(findTestObject(""Object Repository/Page_Pantheon/span_Sign In""))",Chrome 120.0.0.0,,,2023-12-17 19:57:53,2023-12-17 19:57:54,0.662s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Pantheon/div_Hi, Vrushali D""), ""Hi, Vrushali D"")",Chrome 120.0.0.0,,,2023-12-17 19:57:54,2023-12-17 19:57:56,1.933s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-17 19:57:56,2023-12-17 19:57:57,0.816s,PASSED
+,,,,,,,
+Test Cases/ShareCase,Chrome 120.0.0.0,,,2023-12-17 19:57:57,2023-12-17 19:58:19,22.906s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-17 19:57:57,2023-12-17 19:57:58,1.386s,PASSED
+"navigateToUrl(""https://pl-qa-pantheon-mock.eks.qritive.com/signin"")",Chrome 120.0.0.0,,,2023-12-17 19:57:59,2023-12-17 19:58:03,4.505s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313""), ""testingpurposesel@gmail.com"")",Chrome 120.0.0.0,,,2023-12-17 19:58:03,2023-12-17 19:58:04,1.267s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Pantheon/input_Password_ant-input""), ""03ZG93lrBnMy0VKFZPeiCg=="")",Chrome 120.0.0.0,,,2023-12-17 19:58:04,2023-12-17 19:58:05,0.859s,PASSED
+"click(findTestObject(""Object Repository/Page_Pantheon/span_Sign In""))",Chrome 120.0.0.0,,,2023-12-17 19:58:05,2023-12-17 19:58:06,0.714s,PASSED
+"click(findTestObject(""Object Repository/Page_Pantheon/svg""))",Chrome 120.0.0.0,,,2023-12-17 19:58:06,2023-12-17 19:58:08,1.937s,PASSED
+"click(findTestObject(""Object Repository/Page_Pantheon/div_""))",Chrome 120.0.0.0,,,2023-12-17 19:58:08,2023-12-17 19:58:09,0.853s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pantheon/input_People_rc_select_0""), ""testing"")",Chrome 120.0.0.0,,,2023-12-17 19:58:09,2023-12-17 19:58:10,1.399s,PASSED
+"click(findTestObject(""Object Repository/Page_Pantheon/div_testingpurpose2412rediffmail.com""))",Chrome 120.0.0.0,,,2023-12-17 19:58:10,2023-12-17 19:58:12,1.989s,PASSED
+"click(findTestObject(""Object Repository/Page_Pantheon/button_Share""))",Chrome 120.0.0.0,,,2023-12-17 19:58:12,2023-12-17 19:58:13,0.650s,PASSED
+"click(findTestObject(""Object Repository/Page_Pantheon/svg""))",Chrome 120.0.0.0,,,2023-12-17 19:58:13,2023-12-17 19:58:15,2.687s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Pantheon/div_testingpurpose2412rediffmail.com""), ""testingpurpose2412@rediffmail.com"")",Chrome 120.0.0.0,,,2023-12-17 19:58:15,2023-12-17 19:58:18,2.645s,PASSED
+"click(findTestObject(""Object Repository/Page_Pantheon/svg_1""))",Chrome 120.0.0.0,,,2023-12-17 19:58:18,2023-12-17 19:58:19,0.630s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2023-12-17 19:58:19,2023-12-17 19:58:19,0.795s,PASSED
