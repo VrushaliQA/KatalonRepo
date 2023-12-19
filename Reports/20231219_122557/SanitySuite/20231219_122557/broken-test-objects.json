@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Pantheon/input_Password_ant-input",
+      "brokenLocator": "//input[@value\u003d\u0027Q\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form[@id\u003d\u0027signUpEmail\u0027]/div[2]/div/div/div/div/div/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20231219_122557/SanitySuite/20231219_122557/Object Repository/Page_Pantheon/input_Password_ant-input_idRelative.png"
+    }
+  ]
+}

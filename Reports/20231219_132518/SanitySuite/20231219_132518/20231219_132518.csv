@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SanitySuite,Chrome 120.0.0.0,,,2023-12-19 13:25:26,2023-12-19 13:26:06,39.909s,PASSED
+,,,,,,,
+Test Cases/SCRUM-1 User login,Chrome 120.0.0.0,"Summary: User login
+Description: ",jira-integration,2023-12-19 13:25:27,2023-12-19 13:26:06,39.580s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-19 13:25:27,2023-12-19 13:25:30,2.935s,PASSED
+"navigateToUrl(""https://pl-qa-pantheon-mock.eks.qritive.com/signin"")",Chrome 120.0.0.0,,,2023-12-19 13:25:30,2023-12-19 13:25:33,2.429s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313""), ""testingpurposesel@gmail.com"")",Chrome 120.0.0.0,,,2023-12-19 13:25:33,2023-12-19 13:25:34,1.246s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Pantheon/input_Password_ant-input""), ""03ZG93lrBnMy0VKFZPeiCg=="")",Chrome 120.0.0.0,,,2023-12-19 13:25:34,2023-12-19 13:26:06,31.853s,PASSED
+"click(findTestObject(""Object Repository/Page_Pantheon/button_Sign In""))",Chrome 120.0.0.0,,,2023-12-19 13:26:06,2023-12-19 13:26:06,0.684s,PASSED
