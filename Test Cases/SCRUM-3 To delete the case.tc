@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: To delete the case
+Description: User should get option to delete the case</description>
+   <name>SCRUM-3 To delete the case</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10020&quot;:[{&quot;id&quot;:1,&quot;name&quot;:&quot;SCRUM Sprint 1&quot;,&quot;state&quot;:&quot;active&quot;,&quot;boardId&quot;:1,&quot;goal&quot;:&quot;&quot;,&quot;startDate&quot;:&quot;2023-12-19T06:22:54.475Z&quot;,&quot;endDate&quot;:&quot;2024-01-02T06:22:38.000Z&quot;}],&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i00007:&quot;},&quot;status&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://testingpurposesel.atlassian.net/&quot;,&quot;self&quot;:&quot;https://testingpurposesel.atlassian.net/rest/api/2/status/10000&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://testingpurposesel.atlassian.net/rest/api/2/project/10000&quot;,&quot;key&quot;:&quot;SCRUM&quot;,&quot;id&quot;:10000,&quot;name&quot;:&quot;My Scrum Project&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;To delete the case&quot;,&quot;description&quot;:&quot;User should get option to delete the case&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;testingpurposesel@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;test Y&quot;,&quot;self&quot;:&quot;https://testingpurposesel.atlassian.net/rest/api/2/user?accountId\u003d64019373896d10ebd47163f8&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://testingpurposesel.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://testingpurposesel.atlassian.net/rest/api/2/issue/SCRUM-3/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://testingpurposesel.atlassian.net/rest/api/2/issue/10002&quot;,&quot;key&quot;:&quot;SCRUM-3&quot;,&quot;id&quot;:10002}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>234c11fa-6cc9-40f3-af9b-1c7e4651863b</testCaseGuid>
+</TestCaseEntity>
