@@ -27,21 +27,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Pantheon/input_Pas
 
 WebUI.click(findTestObject('Object Repository/Page_Pantheon/button_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/Page_Pantheon/span_PL-0005'))
-
-int current = WebUI.getWindowIndex()
-
-WebUI.switchToWindowIndex(current + 1)
-
-WebUI.click(findTestObject('Object Repository/Page_Pantheon/img_View detailed result_indexstyle__Styled_b3a9bd'))
-
-WebUI.switchToWindowIndex(current + 2)
-
-WebUI.click(findTestObject('Object Repository/Page_Viewer/path'))
-
-WebUI.click(findTestObject('Object Repository/Page_Viewer/span_Circle'))
-
-WebUI.click(findTestObject('Object Repository/Page_Viewer/canvas'))
-
-WebUI.click(findTestObject('Object Repository/Page_Viewer/canvas'))
-
