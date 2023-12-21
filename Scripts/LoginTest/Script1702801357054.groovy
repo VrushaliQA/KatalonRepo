@@ -27,3 +27,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Pantheon/input_Pas
 
 WebUI.click(findTestObject('Object Repository/Page_Pantheon/button_Sign In'))
 
+WebUI.takeScreenshot()
+

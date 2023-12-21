@@ -27,6 +27,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Pantheon/input_Pas
 
 WebUI.click(findTestObject('Object Repository/Page_Pantheon/span_Sign In'))
 
+WebUI.takeScreenshot()
+
 WebUI.click(findTestObject('Object Repository/Page_Pantheon/path'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313'), 'isyntax Prostate 1')
