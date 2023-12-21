@@ -6,12 +6,12 @@
    <elementGuidId>f57ed4aa-406e-4c9e-a2cb-a0cc1c6d496c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@value='']</value>
+         <key>CSS</key>
+         <value>input.ant-input.ant-input-status-success.style__TextInputWrapper-sc-11t5rbb-3.hERMmn</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>input.ant-input.style__TextInputWrapper-sc-1ro6c9w-2.KfhqZ</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;patientInfo&quot;]/div[1]/div/div/div/div/div/div[2]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5fe2d2b2-763d-448c-b4d9-67ff412b889b</webElementGuid>
+      <webElementGuid>3d43e594-8391-407e-a6bf-e1ff2162fa07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,47 +30,55 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>9badb02c-2a76-4ce2-9ac3-864dbfc1a252</webElementGuid>
+      <webElementGuid>7ff48bf2-b219-4ce7-871d-7944a83ef261</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Enter email</value>
-      <webElementGuid>b8adcc81-d0fe-48ed-9a2b-0995ce4ae766</webElementGuid>
+      <value>Enter Patient Name</value>
+      <webElementGuid>025b6c6c-5c51-4c46-b480-3917fc978b68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ant-input style__TextInputWrapper-sc-1ro6c9w-2 KfhqZ</value>
-      <webElementGuid>d1c20a7a-090b-48ad-ab71-1e84d213e815</webElementGuid>
+      <value>ant-input ant-input-status-success style__TextInputWrapper-sc-11t5rbb-3 hERMmn</value>
+      <webElementGuid>4568e2bf-9eb8-4b6e-bdcf-4c7d82af4e0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;signUpEmail&quot;)/div[@class=&quot;ant-form-item&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;style__TextInputContainer-sc-1ro6c9w-0 hMwstv&quot;]/input[@class=&quot;ant-input style__TextInputWrapper-sc-1ro6c9w-2 KfhqZ&quot;]</value>
-      <webElementGuid>c52b2ad7-4337-402c-b56b-c5c5a4280cb9</webElementGuid>
+      <value>id(&quot;patientInfo&quot;)/div[@class=&quot;ant-form-item indexstyle__PatientFormItem-sc-1mzvaed-1 czmtgB ant-form-item-has-success&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-row ant-row-middle&quot;]/div[@class=&quot;ant-col ant-col-19&quot;]/input[@class=&quot;ant-input ant-input-status-success style__TextInputWrapper-sc-11t5rbb-3 hERMmn&quot;]</value>
+      <webElementGuid>666a25cf-7686-4ad5-b3cd-d777c52da0c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>isyntax Prostate</value>
+      <webElementGuid>b820a738-3ee9-4c89-8963-e783f6f06a3a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@value='']</value>
-      <webElementGuid>be69f8db-ab6c-4010-b712-3dac009801db</webElementGuid>
+      <value>//input[@value='isyntax Prostate']</value>
+      <webElementGuid>dbe61f2c-c8b4-42d6-b538-75c683d9e4c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='signUpEmail']/div/div/div/div/div/div/input</value>
-      <webElementGuid>d50c8523-6b1c-444d-aa42-2952ea2ed10d</webElementGuid>
+      <value>//form[@id='patientInfo']/div/div/div/div/div/div/div[2]/input</value>
+      <webElementGuid>1237d161-05fe-4cfa-b789-647e1217b686</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +86,31 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>36383084-9230-4df9-acbb-8c7cbffbbb04</webElementGuid>
+      <webElementGuid>e676f9c3-6f32-4f04-8b80-8c736d18cceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Enter Patient Name' and @type = 'text']</value>
+      <webElementGuid>1203d351-5ac5-4e2f-b6cd-31aae9663b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>4f5d62f6-4192-4915-a9c2-6dd2db3bf767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='signUpEmail']/div/div/div/div/div/div/input</value>
+      <webElementGuid>2b56d7ea-0219-4758-8416-7ce22a154e80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +118,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Enter email']</value>
-      <webElementGuid>bd48ba5d-24cd-49df-9752-8e8ade73ec28</webElementGuid>
+      <webElementGuid>04def93d-d2e8-487b-9b57-f9bdfce17b8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +126,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@value=''])[4]</value>
-      <webElementGuid>4547b446-33c7-4978-b4c0-da2eef567387</webElementGuid>
+      <webElementGuid>4312abd6-4ddc-4d5c-9cf6-cd5087c465b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +134,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='rc-tabs-1-panel-PATHOLOGY_SLIDES']/div/div[2]/div/div/div/div/div/table/tbody/tr/td/label/span/input</value>
-      <webElementGuid>9a1f1ba7-f37a-4ea1-8585-865d6a031c95</webElementGuid>
+      <webElementGuid>3c41f6cf-f974-4dfb-875f-a14369340044</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/label/span/input</value>
-      <webElementGuid>18a2ac3b-e60e-4c84-9d2c-0868bc9cdac1</webElementGuid>
+      <webElementGuid>d6e8096d-f40b-46d0-8fb7-16c066c04db6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox']</value>
-      <webElementGuid>86ff1ab1-b8e7-4170-bc58-4b5fffc6872d</webElementGuid>
+      <webElementGuid>c94ad008-9e88-44d6-8037-8b9a20f46408</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

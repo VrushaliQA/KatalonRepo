@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SanitySuite,Chrome 120.0.0.0,,,2023-12-20 15:51:45,2023-12-20 15:51:59,14.638s,FAILED
+,,,,,,,
+Test Cases/ShareCase,Chrome 120.0.0.0,,,2023-12-20 15:51:57,2023-12-20 15:51:59,2.570s,FAILED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-20 15:51:57,2023-12-20 15:51:59,2.021s,PASSED
+"navigateToUrl(""https://pl-qa-pantheon-mock.eks.qritive.com/signin"")",Chrome 120.0.0.0,,,2023-12-20 15:51:59,2023-12-20 15:51:59,0.514s,FAILED

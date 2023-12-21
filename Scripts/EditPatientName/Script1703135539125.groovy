@@ -27,21 +27,13 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Pantheon/input_Pas
 
 WebUI.click(findTestObject('Object Repository/Page_Pantheon/span_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/Page_Pantheon/svg'))
+WebUI.click(findTestObject('Object Repository/Page_Pantheon/path'))
 
-WebUI.click(findTestObject('Object Repository/Page_Pantheon/div_'))
+WebUI.setText(findTestObject('Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313'), 'isyntax Prostate 1')
 
-WebUI.setText(findTestObject('Object Repository/Page_Pantheon/input_People_rc_select_0'), 'testing')
+WebUI.click(findTestObject('Object Repository/Page_Pantheon/button_Next'))
 
-WebUI.click(findTestObject('Object Repository/Page_Pantheon/div_testingpurpose2412rediffmail.com'))
+WebUI.click(findTestObject('Object Repository/Page_Pantheon/button_Update'))
 
-WebUI.click(findTestObject('Object Repository/Page_Pantheon/button_Share'))
-
-WebUI.click(findTestObject('Object Repository/Page_Pantheon/svg'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Pantheon/div_testingpurpose2412rediffmail.com'), 'testingpurpose2412@rediffmail.com')
-
-WebUI.click(findTestObject('Object Repository/Page_Pantheon/svg_1'))
-
-WebUI.closeBrowser()
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Pantheon/div_isyntax Prostate 1'), 'isyntax Prostate 1')
 

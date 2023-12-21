@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>298dda69-dbd9-4045-8068-8653d6a92f43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody//tr[last()]//td[last()]//button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>2181e415-f606-4cd0-ba18-5068d15f80cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M6.75 15.1874H3.375C3.22582 15.1874 3.08274 15.1282 2.97725 15.0227C2.87176 14.9172 2.8125 14.7741 2.8125 14.6249V11.4829C2.8125 11.409 2.82705 11.3359 2.85532 11.2677C2.88359 11.1994 2.92502 11.1374 2.97725 11.0852L11.4148 2.64766C11.5202 2.54217 11.6633 2.48291 11.8125 2.48291C11.9617 2.48291 12.1048 2.54217 12.2102 2.64766L15.3523 5.78967C15.4577 5.89516 15.517 6.03823 15.517 6.18741C15.517 6.3366 15.4577 6.47967 15.3523 6.58516L6.75 15.1874Z</value>
+      <webElementGuid>a1fbb0e6-ab01-4562-bc50-7a7f4f9d9982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>#3DA1FA</value>
+      <webElementGuid>8e1a15df-5979-4c31-a0b5-751fc726e183</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>2b9b0dd5-4dda-4a1a-9523-9ecd2af6db27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>086416c0-9ad6-48e7-bda0-58f96c3bfbbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;ant-space ant-space-vertical indexstyle__SpaceWrapper-sc-1gsl3no-0 erfuCE&quot;]/div[@class=&quot;ant-space-item&quot;]/section[@class=&quot;ant-layout indexstyle__LayoutWrapper-sc-1gsl3no-1 huUvf&quot;]/main[@class=&quot;ant-layout-content indexstyle__CasesLayout-lzqo8e-0 iGnokf&quot;]/div[@class=&quot;indexstyle__CasesListContainer-z44p8x-0 dXjBwu&quot;]/div[@class=&quot;ant-row indexstyle__CasesListRowWrapper-z44p8x-1 eeIchC&quot;]/div[@class=&quot;ant-table-wrapper&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-row-hover&quot;]/button[@class=&quot;ant-btn ant-btn-default ant-btn-icon-only indexstyle__ActionButton-z44p8x-3 vZOjh&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>b35d2b6b-703a-46a6-8ea4-45ce2b96f198</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

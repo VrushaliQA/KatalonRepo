@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://pl-qa-pantheon-mock.eks.qritive.com/signin')
 
 WebUI.setText(findTestObject('Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313'), 'testingpurposesel@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Pantheon/input_Password_ant-input'), '03ZG93lrBnMy0VKFZPeiCg==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Pantheon/input_Password_ant-input'), '03ZG93lrBnOJ2AE3AYCP/A==')
 
 WebUI.click(findTestObject('Object Repository/Page_Pantheon/button_Sign In'))
 
