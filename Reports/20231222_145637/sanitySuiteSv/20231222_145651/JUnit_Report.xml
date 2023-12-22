@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="sanitySuiteSv" time="112.947" tests="1" failures="0" errors="0">
+   <testsuite name="sanitySuiteSv" tests="1" failures="0" errors="0" time="112.947" skipped="0" timestamp="2023-12-22 14:57:06" hostname="Sachin - DESKTOP-6JUGJ4I" id="Test Suites/sanitySuiteSv">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Sachin\\git\\KatalonRepo\\Reports\\20231222_145637\\sanitySuiteSv\\20231222_145651"/>
+         <property name="logFiles" value="C:\\Users\\Sachin\\git\\KatalonRepo\\Reports\\20231222_145637\\sanitySuiteSv\\20231222_145651\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\Sachin\\git\\KatalonRepo\\Reports\\20231222_145637\\sanitySuiteSv\\20231222_145651\\1703237335998.png"/>
+         <property name="hostName" value="Sachin - DESKTOP-6JUGJ4I"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.6.208"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.105"/>
+         <property name="sessionId" value="1cf2aa63fc5815dc9c14022a56b0c314"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/sv/RunAIModule" time="112.533" classname="Test Cases/sv/RunAIModule" status="PASSED">
+         <system-out><![CDATA[2023-12-22 14:57:06 - [TEST_CASE][PASSED] - Test Cases/sv/RunAIModule: Test Cases/sv/RunAIModule
+
+2023-12-22 14:57:07 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-12-22 14:57:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-12-22 14:57:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-12-22 14:57:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-12-22 14:57:17 - [TEST_STEP][PASSED] - navigateToUrl("https://pl-qa-pantheon-mock.eks.qritive.com/signin"): Navigate to 'https://pl-qa-pantheon-mock.eks.qritive.com/signin' successfully
+
+2023-12-22 14:57:17 - [MESSAGE][PASSED] - Navigate to 'https://pl-qa-pantheon-mock.eks.qritive.com/signin' successfully
+
+2023-12-22 14:57:17 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313"), "testingpurposesel@gmail.com"): Text 'testingpurposesel@gmail.com' is set on object 'Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313'
+
+2023-12-22 14:57:49 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@id="patientInfo"]/div[1]/div/div/div/div/div/div[2]/input'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-12-22 14:57:49 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313'. Try using Self-healing.
+
+2023-12-22 14:57:49 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313' was broken. Propose an alternative one: '//input[@value='']'.
+
+2023-12-22 14:58:20 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@id="patientInfo"]/div[1]/div/div/div/div/div/div[2]/input'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-12-22 14:58:20 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313'. Try using Self-healing.
+
+2023-12-22 14:58:21 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313' was broken. Propose an alternative one: '//input[@value='']'.
+
+2023-12-22 14:58:21 - [MESSAGE][PASSED] - Text 'testingpurposesel@gmail.com' is set on object 'Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313'
+
+2023-12-22 14:58:21 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Pantheon/input_Password_ant-input"), "03ZG93lrBnMy0VKFZPeiCg=="): Text ****** has been set on object 'Object Repository/Page_Pantheon/input_Password_ant-input'
+
+2023-12-22 14:58:53 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@value='V']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2023-12-22 14:58:53 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Pantheon/input_Password_ant-input'. Try using Self-healing.
+
+2023-12-22 14:58:53 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Pantheon/input_Password_ant-input' was broken. Propose an alternative one: '//form[@id='signUpEmail']/div[2]/div/div/div/div/div/span/input'.
+
+2023-12-22 14:58:54 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Pantheon/input_Password_ant-input'
+
+2023-12-22 14:58:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Pantheon/button_Sign In")): Object: 'Object Repository/Page_Pantheon/button_Sign In' is clicked on
+
+2023-12-22 14:58:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Pantheon/button_Sign In' is clicked on
+
+2023-12-22 14:58:55 - [TEST_STEP][PASSED] - takeScreenshot(): Taking screenshot successfully
+
+2023-12-22 14:58:56 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\Sachin\\git\\KatalonRepo\\Reports\\20231222_145637\\sanitySuiteSv\\20231222_145651\\1703237335998.png]]
+
+2023-12-22 14:58:58 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/sv/RunAIModule' .
+
+2023-12-22 14:58:58 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/sv/RunAIModule' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-12-22 14:57:06 - [TEST_SUITE][PASSED] - sanitySuiteSv: Test Cases/sv/RunAIModule]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

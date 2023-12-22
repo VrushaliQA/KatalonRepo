@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+sanitySuiteSv,Chrome 120.0.0.0,,,2023-12-22 14:57:06,2023-12-22 14:58:58,1m - 52.947s,PASSED
+,,,,,,,
+Test Cases/sv/RunAIModule,Chrome 120.0.0.0,,,2023-12-22 14:57:06,2023-12-22 14:58:58,1m - 52.533s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2023-12-22 14:57:07,2023-12-22 14:57:17,10.132s,PASSED
+"navigateToUrl(""https://pl-qa-pantheon-mock.eks.qritive.com/signin"")",Chrome 120.0.0.0,,,2023-12-22 14:57:17,2023-12-22 14:57:17,0.530s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313""), ""testingpurposesel@gmail.com"")",Chrome 120.0.0.0,,,2023-12-22 14:57:17,2023-12-22 14:58:21,1m - 4.139s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Pantheon/input_Password_ant-input""), ""03ZG93lrBnMy0VKFZPeiCg=="")",Chrome 120.0.0.0,,,2023-12-22 14:58:21,2023-12-22 14:58:54,32.431s,PASSED
+"click(findTestObject(""Object Repository/Page_Pantheon/button_Sign In""))",Chrome 120.0.0.0,,,2023-12-22 14:58:54,2023-12-22 14:58:55,0.685s,PASSED
+takeScreenshot(),Chrome 120.0.0.0,,,2023-12-22 14:58:55,2023-12-22 14:58:56,1.548s,PASSED
+Video,Chrome 120.0.0.0,,,2023-12-22 14:58:58,2023-12-22 14:58:58,0.002s,PASSED

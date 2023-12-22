@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+sanitySuiteSv,,,,2023-12-22 12:31:56,2023-12-22 12:32:04,7.937s,FAILED
+,,,,,,,
+Test Cases/sv/RunAIModule,,,,2023-12-22 12:31:56,2023-12-22 12:32:04,7.590s,FAILED
+"openBrowser("""")",,,,2023-12-22 12:31:57,2023-12-22 12:32:02,4.562s,FAILED
+Video,,,,2023-12-22 12:32:04,2023-12-22 12:32:04,0.001s,PASSED

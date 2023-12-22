@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313",
+      "brokenLocator": "//*[@id\u003d\"patientInfo\"]/div[1]/div/div/div/div/div/div[2]/input",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@value\u003d\u0027\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20231222_123952/sanitySuiteSv/20231222_124001/Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Pantheon/input_Password_ant-input",
+      "brokenLocator": "//input[@value\u003d\u0027V\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//form[@id\u003d\u0027signUpEmail\u0027]/div[2]/div/div/div/div/div/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20231222_123952/sanitySuiteSv/20231222_124001/Object Repository/Page_Pantheon/input_Password_ant-input_idRelative.png"
+    }
+  ]
+}
