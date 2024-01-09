@@ -19,3 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WS.sendRequest(findTestObject('API_Pantheon/LoginUser'))
 
+WS.verifyResponseStatusCode(response, 200)
+
