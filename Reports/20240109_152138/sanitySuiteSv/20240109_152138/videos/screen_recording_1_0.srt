@@ -1,0 +1,24 @@
+1
+00:00:01,130 --> 00:00:07,899
+1. openBrowser("")
+
+2
+00:00:07,925 --> 00:00:11,166
+5. navigateToUrl("https://pl-qa-pantheon-mock.eks.qritive.com/signin")
+
+3
+00:00:11,167 --> 00:01:15,352
+9. setText(findTestObject("Object Repository/Page_Pantheon/input_Email_ant-input style__TextInputWrapp_ced313"), "testingpurposesel@gmail.com")
+
+4
+00:01:15,353 --> 00:01:47,478
+13. setEncryptedText(findTestObject("Object Repository/Page_Pantheon/input_Password_ant-input"), "03ZG93lrBnMy0VKFZPeiCg==")
+
+5
+00:01:47,479 --> 00:01:48,262
+17. click(findTestObject("Object Repository/Page_Pantheon/button_Sign In"))
+
+6
+00:01:48,270 --> 00:01:49,631
+21. takeScreenshot()
+

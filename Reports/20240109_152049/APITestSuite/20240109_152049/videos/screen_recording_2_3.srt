@@ -1,0 +1,8 @@
+1
+00:00:00,003 --> 00:00:00,858
+1. response = sendRequest(findTestObject("API_Pantheon/restRequest"))
+
+2
+00:00:00,860 --> 00:00:00,932
+5. verifyElementPropertyValue(response, "products[0].title", "iPhone")
+
